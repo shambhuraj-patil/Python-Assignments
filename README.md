@@ -17,7 +17,7 @@ Assignment8/
 
 ---
 
-Each folder contains Python scripts for individual problems (e.g., `Assignment1_1.py`, `Assignment5_Circle.py`).
+Each folder contains Python scripts for individual problems (e.g., `Assignment1_1.py`, `Assignment5_2.py`).
 
 ---
 
